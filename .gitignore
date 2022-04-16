@@ -68,6 +68,7 @@ Saved/*
 Content/Models/*
 Content/Materials/*
 Content/UnrealBasic/*
+Content/StarterContent/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
